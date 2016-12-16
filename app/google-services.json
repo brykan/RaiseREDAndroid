@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "222215596629",
+    "firebase_url": "https://raisered-39293.firebaseio.com",
+    "project_id": "raisered-39293",
+    "storage_bucket": "raisered-39293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222215596629:android:dfeddf44f24883c3",
+        "android_client_info": {
+          "package_name": "co.createlou.RaiseRED"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222215596629-dcaoloel5ivpe2l06brdqkqhb28vtfmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RloVGhl2TyHf0ITpv7FtdbpmOrnUOTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
